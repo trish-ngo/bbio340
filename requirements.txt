@@ -1,0 +1,2 @@
+# Biopython for sequence alignment and analysis
+biopython>=1.81
